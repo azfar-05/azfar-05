@@ -36,6 +36,18 @@ Compared 8 classifiers on operational failure data, evaluated across ROC-AUC, F1
 
 ---
 
+## Shipped & In Use
+
+**[HAP – Homes & Plates](https://hap-store.vercel.app)** — Product Catalog · Live in Production
+
+A mobile-first product catalog for a home decor and tableware business — replacing Instagram and WhatsApp-based showcasing with a polished, self-serve storefront. Built and deployed end-to-end; actively used by the business owner to manage and display their catalog.
+
+Features a public catalog with category filtering, product detail pages with WhatsApp inquiry deep-links, and a fully self-serve admin panel (product CRUD, image management, featured curation, hero collage) so the owner needs zero developer involvement after handoff.
+
+`Next.js 15` · `Supabase` · `TypeScript` · `Tailwind CSS` · `Vercel`
+
+---
+
 ## Focus Areas
 
 - **Failure Analysis** — stack trace correlation, regression isolation, commit archaeology
